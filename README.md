@@ -54,14 +54,15 @@ Production-ready shop management system actively used in a real retail environme
 ---
 
 ### 🟢 YieldMart – E-commerce Platform (In Active Development)
-Modern e-commerce platform focused on backend scalability and business operations.
+Modern e-commerce platform focused on scalable backend systems and real business operations.
 
 - REST APIs for products, orders, and authentication
 - Payment integration (Paystack)
 - PostgreSQL database design using Prisma
-- Admin dashboard for managing operations
+- Admin dashboard for managing products and orders
 
-👉 [View Code](https://github.com/gibsonJESUS1/YOUR-YIELDMART-REPO)
+👉 **Backend:** https://github.com/gibsonJESUS1/golden-yield-backend  
+👉 **Frontend:** https://github.com/gibsonJESUS1/golden-yield-frontend  
 
 ---
 
