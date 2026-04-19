@@ -23,19 +23,19 @@ I specialize in backend architecture, API design, and building scalable systems 
 ---
 
 ## 🛠 Tech Stack
-- **Backend:** Node.js, TypeScript, Express
-- **Database:** PostgreSQL, Prisma ORM
-- **Frontend:** Next.js (App Router), Tailwind CSS
-- **Architecture:** REST APIs, JWT Authentication, 3-layer architecture
-- **Tools:** Git, Vercel, Zustand
+- **Backend:** Node.js, TypeScript, Express  
+- **Database:** PostgreSQL, Prisma ORM  
+- **Frontend:** Next.js (App Router), Tailwind CSS  
+- **Architecture:** REST APIs, JWT Authentication, 3-layer architecture  
+- **Tools:** Git, Vercel, Zustand  
 
 ---
 
 ## 🧠 Engineering Focus
-- Backend system design and API architecture
-- Database modeling and optimization
-- Building scalable and maintainable systems
-- Handling real-world edge cases (inventory logic, pricing, debt tracking)
+- Backend system design and API architecture  
+- Database modeling and optimization  
+- Building scalable and maintainable systems  
+- Handling real-world edge cases (inventory logic, pricing, debt tracking)  
 
 ---
 
@@ -44,10 +44,10 @@ I specialize in backend architecture, API design, and building scalable systems 
 ### 🟢 Golden Yield Mart Management System (Live Production System)
 Production-ready shop management system actively used in a real retail environment.
 
-- Real-time inventory tracking and stock management
-- Sales system with pricing logic and profit calculation
-- Customer debt tracking and payment system
-- Business analytics dashboard (revenue, cost, profit)
+- Real-time inventory tracking and stock management  
+- Sales system with pricing logic and profit calculation  
+- Customer debt tracking and payment system  
+- Business analytics dashboard (revenue, cost, profit)  
 
 👉 [View Code](https://github.com/gibsonJESUS1/goldenyield--mart-management-system)
 
@@ -56,10 +56,10 @@ Production-ready shop management system actively used in a real retail environme
 ### 🟢 YieldMart – E-commerce Platform (In Active Development)
 Modern e-commerce platform focused on scalable backend systems and real business operations.
 
-- REST APIs for products, orders, and authentication
-- Payment integration (Paystack)
-- PostgreSQL database design using Prisma
-- Admin dashboard for managing products and orders
+- REST APIs for products, orders, and authentication  
+- Payment integration (Paystack)  
+- PostgreSQL database design using Prisma  
+- Admin dashboard for managing products and orders  
 
 👉 **Backend:** https://github.com/gibsonJESUS1/golden-yield-backend  
 👉 **Frontend:** https://github.com/gibsonJESUS1/golden-yield-frontend  
@@ -69,18 +69,18 @@ Modern e-commerce platform focused on scalable backend systems and real business
 ### 🟢 Tutor Backend System
 Backend system for managing tutoring operations and services.
 
-- API design for managing users and sessions
-- Backend structure for scalable service delivery
+- API design for managing users and sessions  
+- Backend structure for scalable service delivery  
 
 👉 [View Code](https://github.com/gibsonJESUS1/tutor-backend)
 
 ---
 
 ### 🟢 Real-Time Chat Application
-Node.js-based chat system with advanced features.
+Node.js-based chat system with real-time messaging features.
 
-- Real-time messaging functionality
-- Backend event handling and communication logic
+- Real-time communication using event-driven architecture  
+- Backend logic for message handling and delivery  
 
 👉 [View Code](https://github.com/gibsonJESUS1/advance-chap-app)
 
@@ -89,10 +89,10 @@ Node.js-based chat system with advanced features.
 ## 🌍 Goal
 Actively seeking backend / full-stack engineering roles in Europe (open to relocation).
 
-Focused on joining a team where I can contribute to building scalable systems and continue growing as a software engineer.
+Focused on contributing to teams building scalable systems while continuing to grow as a software engineer.
 
 ---
 
 ## 📫 Contact
 - Email: otosin11@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/tosin-owolabi-98b2b450/
+- LinkedIn: https://www.linkedin.com/in/tosin-owolabi-98b2b450/  
