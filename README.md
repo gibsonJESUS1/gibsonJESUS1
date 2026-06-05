@@ -1,153 +1,132 @@
 # Hi, I'm Tosin 👋
 
-Backend Engineer focused on building scalable backend systems, APIs, and cloud-ready applications using Node.js, TypeScript, PostgreSQL, and modern backend engineering practices.
+Software Engineer specializing in backend systems, APIs, and full-stack product development.
 
-I enjoy designing modular backend architectures, authentication systems, and production-ready services with a strong focus on maintainability, scalability, and real-world business operations.
+I build scalable applications using TypeScript, Node.js, PostgreSQL, React, and modern cloud-native development practices.
 
-Currently growing toward:
+My experience spans backend infrastructure, business applications, e-commerce platforms, inventory management systems, authentication services, payment integrations, and end-to-end product development.
 
-* Distributed Systems Engineering
+I enjoy turning business requirements into reliable software products while maintaining a strong focus on scalability, maintainability, and user impact.
+
+## Current Focus
+
+* Backend Engineering
+* Full-Stack Product Development
 * Cloud Infrastructure
+* Distributed Systems
 * Platform Engineering
 * Scalable System Design
 
----
+## Engineering Stack
 
-# ⚡ Engineering Focus
+### Frontend
 
-* Backend API Architecture
-* Authentication & Authorization Systems
-* PostgreSQL Database Design
-* Modular Backend Systems
-* REST API Development
-* Cloud-ready Backend Applications
-* Production Deployment Workflows
-* Scalable System Design
+* React
+* Next.js
+* JavaScript
+* TypeScript
 
----
-
-# 🛠 Engineering Stack
-
-## Backend Engineering
+### Backend
 
 * Node.js
-* TypeScript
 * NestJS
 * Express.js
+* REST APIs
+* WebSockets
 
-## Database & ORM
+### Database
 
 * PostgreSQL
 * Prisma ORM
 
-## Authentication & Security
+### Authentication & Security
 
 * JWT Authentication
-* Role-based Authorization
-* Protected Routes
-* Validation Pipelines
+* Role-Based Access Control (RBAC)
+* Refresh Token Workflows
+* API Security
 
-## Cloud & Infrastructure
+### Infrastructure & DevOps
 
 * Docker
 * Railway
 * Vercel
-* Environment Configuration
+* CI/CD Fundamentals
 
-## API & Architecture
+### API & Architecture
 
-* REST APIs
 * Swagger/OpenAPI
 * Modular Architecture
-* Exception Filters
-* Interceptors
+* Validation Pipelines
+* Exception Handling
+* Scalable Backend Design
 
----
+## Featured Projects
 
-# 🚀 Featured Engineering Projects
+### GoldenYield Mart Management System
 
-## 📦 Content Ops Tool Backend
+A full-stack retail and inventory management platform designed for real business operations.
 
-Production-grade backend API built with NestJS, PostgreSQL, Prisma ORM, JWT authentication, and scalable modular architecture.
-
-### Highlights
-
-* JWT Access & Refresh Token Flow
-* Swagger/OpenAPI Documentation
-* PostgreSQL + Prisma Integration
-* DTO Validation Pipelines
-* Request Logging Middleware
-* Railway Cloud Deployment
-
-🔗 Repository:
-https://github.com/gibsonJESUS1/content-ops-tool-backend
-
-🔗 Live Swagger Docs:
-https://scintillating-bravery-production.up.railway.app/api/docs
-
----
-
-## 🛒 GoldenYield Mart Management System
-
-Production-ready business management platform designed for real retail operations.
-
-### Features
+**Highlights**
 
 * Inventory Management
 * Sales & Revenue Tracking
 * Customer Debt Tracking
 * Analytics Dashboard
-* Real-world Retail Workflow Integration
+* Operational Workflow Automation
 
-🔗 Repository:
+Repository:
 https://github.com/gibsonJESUS1/goldenyield--mart-management-system
 
-🔗 Live Application:
+Live Application:
 https://goldenyield-mart-management-system-chi.vercel.app/dashboard
 
----
+### Content Ops Tool Backend
 
-## 🛍 Golden Yield Backend
+Production-grade backend API built with NestJS, PostgreSQL, Prisma ORM, and JWT authentication.
 
-Backend infrastructure for an e-commerce platform focused on scalable APIs and business operations.
+**Highlights**
 
-### Features
+* Access & Refresh Token Authentication
+* Swagger/OpenAPI Documentation
+* DTO Validation
+* PostgreSQL + Prisma
+* Railway Deployment
 
-* REST API Architecture
+Repository:
+https://github.com/gibsonJESUS1/content-ops-tool-backend
+
+### Golden Yield Backend
+
+Backend infrastructure supporting e-commerce and operational business workflows.
+
+**Highlights**
+
 * Product & Order Management
-* Authentication System
+* Authentication & Authorization
 * PostgreSQL Database Design
-* Admin Backend Operations
+* REST API Architecture
 
-🔗 Repository:
+Repository:
 https://github.com/gibsonJESUS1/golden-yield-backend
 
----
+## Open Source
 
-# 📈 Current Engineering Growth Areas
+* Contributing to the Express.js ecosystem
+* Learning large-scale codebases and collaborative development workflows
+* Active in Git-based contribution processes
 
-* Distributed Systems Fundamentals
-* Cloud Infrastructure Engineering
-* Backend Performance Optimization
-* CI/CD Pipelines
-* Observability & Monitoring
-* Event-driven Architecture
-* Scalable Backend Systems
+## Open To
 
----
-
-# 🌍 Open To
-
-* Backend Engineering Opportunities
-* Remote Backend Roles
+* Backend Engineering Roles
+* Full Stack Engineering Roles
+* Product Engineering Roles
+* Remote Opportunities
 * International Relocation Opportunities
-* Cloud & Infrastructure Engineering Growth
 
----
+## Contact
 
-# 📫 Contact
+Email: [otosin11@gmail.com](mailto:otosin11@gmail.com)
 
-📧 Email: [otosin11@gmail.com](mailto:otosin11@gmail.com)
-
-🔗 LinkedIn:
+LinkedIn:
 https://www.linkedin.com/in/tosin-owolabi-98b2b450/
